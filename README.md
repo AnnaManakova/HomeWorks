@@ -21,7 +21,7 @@
 3. [Афанасий Афанасьевич Фет](https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D1%82,_%D0%90%D1%84%D0%B0%D0%BD%D0%B0%D1%81%D0%B8%D0%B9_%D0%90%D1%84%D0%B0%D0%BD%D0%B0%D1%81%D1%8C%D0%B5%D0%B2%D0%B8%D1%87)
 4. [Владимир Маяковский](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%8F%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87 "Русский советский поэт. Футурист.")
 ##### **Картинки**
-![Сергей Есенин](https://skolkolet.com/images/590e5ad27d66ac348e88c051/sergey-esenin.jpg)
+![Есенин](https://skolkolet.com/images/590e5ad27d66ac348e88c051/sergey-esenin.jpg)
 ###### **Таблицы**
 1|2|3
 ---|:---:|---:
